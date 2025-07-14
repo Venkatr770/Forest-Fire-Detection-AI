@@ -9,11 +9,9 @@ This project detects forest fires using Convolutional Neural Networks (CNN) and 
 ```
 Forest-Fire-Detection-AI/
 ├── model_training/
-│   ├── Forest_Fire_Detection_Train_Test_model.ipynb      # CNN model training notebook (Google Colab)
-│   ├── nbest_fire_detection_model.keras            # Trained model saved in .keras format
+│   ├── Forest_Fire_Detection_Train_Test_model.ipynb      # CNN model training notebook (Google Colab)           
 ├── live_detection/
 │   ├── fire_detection_live.py      # Real-time fire detection using webcam
-│   └── nbest_fire_detection_model.keras            # Copy of trained model for inference
 ├── requirements.txt                # Python package dependencies
 ├── README.md                       # Project overview and usage
 └── .gitignore                      # Files to ignore in GitHub
