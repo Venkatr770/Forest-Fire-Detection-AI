@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Environment
+.env
+*.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Colab artifacts
+*.log
+*.bak
+
+# Model files
+*.h5
+*.keras
+*.tflite
+*.pb
+*.ckpt
+*.weights
+
+# Dataset archives
+*.zip
+*.tar.gz
+*.rar
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Virtual Environments
+venv/
+ENV/
+.env/
